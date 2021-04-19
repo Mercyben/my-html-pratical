@@ -1,2 +1,2 @@
-# my-html-pratical
-first html project
+my text-adventure game
+
